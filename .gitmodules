@@ -1,4 +1,0 @@
-[submodule "files/gohelper"]
-	path = files/gohelper
-	url = https://github.com/xorpaul/gohelper.git
-	branch = master
